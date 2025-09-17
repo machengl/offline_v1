@@ -1,0 +1,13 @@
+1:在海豚调度的时候遇到了压缩问题,然后将orc更改为了parquet压缩解决了这个问题
+![img.png](img/img.png)
+2:然后再解决完压缩格式之后又出现了数据格式问题将格式更改后解决了这个问题
+![img_1.png](img/img_1.png)
+3:然后又使用了jar包补全了mysql中缺少的数据
+![img_2.png](img/img_2.png)
+![img.png](img.png)
+4:又继续使用海豚调度同步了别的数据
+![img_1.png](img_1.png)
+5:使用脚本文件将mysql本地的数据放到hive的数据库中
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
